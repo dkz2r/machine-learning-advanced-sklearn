@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/404.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/404.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/CODE_OF_CONDUCT.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/LICENSE.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/index.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/aio.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/instructor/404.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/images.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/index.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/instructor/LICENSE.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/instructor/index.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/instructor/introduction.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/instructor/profiles.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/instructor/reference.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/introduction.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/profiles.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://jonathan-hartman.github.io/machine-learning-advanced-sklearn/reference.html</loc>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://dkz2r.github.io/machine-learning-advanced-sklearn/reference.html</loc>
   </url>
 </urlset>
