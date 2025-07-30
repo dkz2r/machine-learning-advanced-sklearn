@@ -9,7 +9,6 @@ Ideas for episodes:
 - Time series prediction
 - Explainable models (e.g. with LIME/SHAP)
 - Neural Nets
-
   - Backpropegation (SGD, Adaptive Learning, Momentum)
   - Convolutional Neural Nets
   - Activation functions (Binary, ReLU, Sigmoid, Softmax)
@@ -19,5 +18,5 @@ Ideas for episodes:
 - Word2Vec
 - Model evaluation (precision, recall, F1
 - Transfer learning
-
-- this is a test from tarek i.
+- Active Learning
+  
