@@ -19,3 +19,5 @@ Ideas for episodes:
 - Word2Vec
 - Model evaluation (precision, recall, F1
 - Transfer learning
+
+- this is a test from tarek i.
