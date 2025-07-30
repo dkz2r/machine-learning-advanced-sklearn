@@ -6,6 +6,7 @@ Ideas for episodes:
 
 - Feature engineering
 - Training on unbalanced datasets
+  - stratified sampling.
 - Time series prediction
 - Explainable models (e.g. with LIME/SHAP)
 - Neural Nets
