@@ -18,6 +18,11 @@ exercises: 2
 
 ## Introduction
 
+-> sktime? sklearn contrib?
+Excursion, keep it light and interesting -> Notebooks!
+- Time series modeling and ARIMA
+- Prediction tasks
+- Time series classification and dynamic time warping
 
 ::::::::::::::::::::::::::::::::::::: challenge
 

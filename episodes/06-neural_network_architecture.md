@@ -12,7 +12,10 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
--
+- Activation functions
+- "activation functions at the end" e.g. decision functions
+- Fully-connected feed forward
+- these Diagrams
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

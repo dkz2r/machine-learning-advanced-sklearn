@@ -25,7 +25,7 @@ produce the final output. This simple model forms the foundation for more comple
 
 A Perceptron model might look something like this:
 
-![Perceptron Model](./fig/perceptrons/perceptron.png)
+![Perceptron Model](./fig/05-perceptrons/perceptron.png)
 
 Let's code a simple perceptron to start with. We'll mimic the structure of the sklearn models, so
 we'll define a class with `fit` and `predict` methods. (We'll fill in the `fit` method later)

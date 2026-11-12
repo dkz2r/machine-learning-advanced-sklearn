@@ -18,6 +18,10 @@ exercises: 2
 
 ## Introduction
 
+- Wine Quality data set (?) ... See intermediate-ml-project-main
+- Which data set? Maybe just change stuff in Iris?
+- Methods to balance data
+- Metrics that address imbalanced data
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
