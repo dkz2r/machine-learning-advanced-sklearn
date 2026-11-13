@@ -89,3 +89,13 @@ def plot_scaling_comparison(X, X_scaled):
         ax.grid()
     plt.tight_layout()
     plt.show()
+
+
+def show_mnist_image(image, label=None):
+    """Display one flattened or 28-by-28 MNIST image in grayscale."""
+    fig, ax = plt.subplots()
+    ax.imshow(np.asarray(image).reshape(28, 28), cmap="gray")
+    if label is not None:
+        ax.set_title(f"Digit: {label}")
+    ax.axis("off")
+    plt.show()
